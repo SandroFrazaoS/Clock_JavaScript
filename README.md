@@ -9,10 +9,10 @@ Executado na udemy.com.br
 Relógio analógico e Digitall
 
 ## Telas
-![tela][tela1]
+![tela1][tela1]
 
 
-![tela][tela2]
+![tela2][tela2]
 
 
 
